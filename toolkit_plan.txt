@@ -1,0 +1,30 @@
+=========================================
+PERSONAL MINI-TOOLKIT — PROJECT PLAN
+=========================================
+
+1. TOOLS INCLUDED
+-----------------
+Tool 1: To-Do List Manager
+- Description: Lets the user add tasks, view their current task list, and remove completed tasks during the session.
+- Concepts used: while loop, list (append, pop), if/elif/else conditionals, f-strings.
+
+Tool 2: Simple Calculator
+- Description: Asks the user for two numbers and an operator (+, -, *, /) and calculates the result safely.
+- Concepts used: if/elif/else conditionals, variables, input/output, f-strings.
+
+Tool 3: Number-Guessing Game
+- Description: Picks a random secret number between 1 and 20 and lets the user guess until they get it right with "too high" or "too low" hints.
+- Concepts used: random module, while loop, if/elif/else conditionals, counter variable, f-strings.
+
+
+2. EXACT MENU TEXT
+------------------
+==============================
+   PERSONAL MINI-TOOLKIT
+==============================
+1. To-Do List Manager
+2. Simple Calculator
+3. Number-Guessing Game
+4. Quit
+==============================
+Choose an option (1-4): 
